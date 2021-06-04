@@ -1,0 +1,83 @@
+.bottomMenu{
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #e2e2e2;
+    background-color: white;
+}
+.appLogo{
+    color: #1877F2; 
+    font-size: 25px;
+    font-family: Tahoma;
+}
+.card{
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 100%;
+    margin-bottom: 5%;
+}
+.centeredAppLogo{
+    color: #1877F2;
+    font-size: 25px;
+    font-family: Tahoma; 
+    text-align: center;
+}
+.postHeaderLogo{
+    float: left;
+    width: 10%;
+}
+.postInput{
+    float:left;
+    width: 78%;
+    margin-right: 2%;
+    border: 1px solid white;
+}
+.newPost{
+    float: left;
+    width: 90%;
+}
+.postButton{
+    float:left;
+    width:20%;
+}
+.hiddenObject{
+    visibility: hidden;
+}
+.likeButton{
+    color: #0280f6;
+}
+.settingsHeader{
+    width: 100%;
+    margin-bottom: 5%;
+    padding: 10px 0px 10px 0px;
+    text-align: center
+}
+.settingsSection{
+    width: 100%;
+    margin-bottom: 5%;
+    padding: 10px 0 10px 30px;
+    background-color: #adadad;
+    color: white;
+    font-size: 16px;
+    font-weight: bold
+}
+.sectionContent{
+    margin-bottom: 20px;
+}
+.sectionItem{
+    padding: 5px 10px 10px 30px;
+}
+.sectionTitle{
+    font-size: 16px;
+    font-weight: bold;
+}
+.sectionText{
+    font-size: 16px; 
+    color: #adadad;
+}
+.deleteButton{
+    float: right;
+    width: 5%;
+    
+}
